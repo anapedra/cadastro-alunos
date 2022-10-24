@@ -19,7 +19,7 @@ public class CrudCiciplinaService {
         Boolean isTrue= true;
         while (isTrue){
             System.out.println("Qual entidade voce que executar?\n" +
-                    "PARA VOLTAR O MENU ANTERIOR DOGITE 0 \n 1-CADASTRAR NOVO Diciplina\n 2-ATUALIZAR DICIPLINA\n 3-Listar TODAS AS DICIPLINA" +
+                    "PARA VOLTAR O MENU ANTERIOR DOGITE 0 \n 1-CADASTRAR NOVO Diciplina\n  2-ATUALIZAR DICIPLINA\n 3-Listar TODAS AS DICIPLINA" +
                     "\n 4-DELATAR DICIPLINA\n 5-BUSCAR DICIPLINA POR ID" );
             int opcao= scanner.nextInt();
 
